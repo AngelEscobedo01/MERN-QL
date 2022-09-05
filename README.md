@@ -5,7 +5,9 @@ Foundation was inspired by [Traversy Media](https://github.com/bradtraversy/proj
 
 ### Getting started
 1. Download the repository
+
 2. ` npm i` packages in client/server
+
 3. Run `nodemon server.js` & `npm start`.
 
 
